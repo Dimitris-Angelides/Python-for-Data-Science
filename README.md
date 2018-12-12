@@ -1,2 +1,3 @@
 # Python-for-Data-Science
-Jupyter notebooks
+
+This repository includes my jupyter notebooks while learning python for data science.
